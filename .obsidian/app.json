@@ -5,5 +5,7 @@
   "useTab": false,
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "/"
+  "attachmentFolderPath": "/",
+  "readableLineLength": true,
+  "propertiesInDocument": "visible"
 }

@@ -1,6 +1,6 @@
 {
   "lightStyle": "minimal-light",
-  "darkStyle": "minimal-dark",
+  "darkStyle": "minimal-dark-tonal",
   "lightScheme": "minimal-default-light",
   "darkScheme": "minimal-rose-pine-dark",
   "editorFont": "",
@@ -22,7 +22,7 @@
   "trimNames": true,
   "labeledNav": false,
   "fullWidthMedia": true,
-  "bordersToggle": true,
+  "bordersToggle": false,
   "minimalStatus": true,
   "focusMode": false,
   "underlineInternal": true,

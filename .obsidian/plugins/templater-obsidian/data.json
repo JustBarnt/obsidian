@@ -29,6 +29,10 @@
     {
       "folder": "03.KnowledgeBase",
       "template": "04.Templates/KBTemplate.md"
+    },
+    {
+      "folder": "Tasks",
+      "template": "04.Templates/TaskTemplate.md"
     }
   ],
   "enable_file_templates": false,

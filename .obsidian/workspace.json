@@ -1,22 +1,24 @@
 {
   "main": {
-    "id": "34be3234d4e72914",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "0effb920b6ccf3d4",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "cd0ef2d5862a210c",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "02.CodeSnippets"
+                "file": "Tasks/INT-5258.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "02.CodeSnippets"
+              "title": "INT-5258"
             }
           }
         ]
@@ -39,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -73,7 +75,7 @@
             }
           },
           {
-            "id": "77520d42fb4a4be5",
+            "id": "9e18183972e3a142",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -87,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.5
   },
   "right": {
     "id": "9a9429f3d0a235ae",
@@ -170,6 +172,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -178,46 +182,47 @@
       "command-palette:Open command palette": false,
       "pomodoro-timer:Toggle timer panel": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "391824e8298cd202",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02.CodeSnippets/02.CodeSnippets.md",
+    "Tasks/Tasks.md",
+    "Tasks/INT-5258.md",
+    "Tasks/test.md",
+    "Tasks/Untitled.canvas",
+    "04.Templates/TaskTemplate.md",
+    "04.Templates/ProjectsTemplate.md",
+    "04.Templates/SnippetTemplate.md",
     "00.DailyNotes/2025/2025-02-27.md",
+    "04.Templates/DailyNoteTemplate.md",
+    "04.Templates/KBTemplate.md",
+    "02.CodeSnippets/02.CodeSnippets.md",
+    "03.KnowledgeBase/03.KnowledgeBase.md",
+    "Tasks",
+    "space.md",
+    "Task List.md",
+    "04.Templates/TodoTemplate.md",
     "02.CodeSnippets/Snippet-Test.md",
     "Tags/#dailynotes",
     "Tags/#dailynote",
     "Tags",
-    "Untitled.md",
     "Untitled.canvas",
-    "04.Templates/KBTemplate.md",
     "01.Projects/TestProject.md",
-    "04.Templates/DailyNoteTemplate.md",
     "02.CodeSnippets/Snippet-test.md",
-    "04.Templates/ProjectsTemplate.md",
-    "04.Templates/SnippetTemplate.md",
     "02.CodeSnippets/Snippet-test.md",
     "02.CodeSnippets/Snippet-test.md",
     "02.CodeSnippets/Snippet-te.md",
     "02.CodeSnippets/Snippet-TestSnippet.md",
-    "03.KnowledgeBase/03.KnowledgeBase.md",
     "00.DailyNotes/2025/2025-02-26.md",
     "00.DailyNotes/00.DailyNotes.md",
     "00.DailyNotes/Untitled.md",
     "01.Projects/NeovimConfiguration.md",
-    "01.Projects/01.Projects.md",
-    "01.Projects/00.NeovimConfiguration.md",
-    "01.Projects/00.NvimConfig.md",
-    "DailyNote/DailyNote.md",
-    "00.DailyNotes/2025/2025.md",
-    "00.DailyNotes/2025/02/2025-02-27.md",
     "DailyNote",
     "00.DailyNotes/2025/02",
     "00.DailyNotes/2025",
     "00.DailyNotes/02",
     "00.DailyNotes/2025-02-27",
-    "Archive",
-    "04.Templates"
+    "Archive"
   ]
 }

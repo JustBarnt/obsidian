@@ -43,7 +43,8 @@
     "01.Projects",
     "03.KnowledgeBase",
     "02.CodeSnippets",
-    "00.DailyNotes"
+    "00.DailyNotes",
+    "Tasks"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -51,7 +52,8 @@
   "spaceSubFolder": ".space",
   "hiddenFiles": [
     "00.DailyNotes/2025",
-    "04.Templates/DailyNoteTemplate.md"
+    "04.Templates/DailyNoteTemplate.md",
+    "Tasks/Tasks.md"
   ],
   "hiddenExtensions": [
     ".mdb",
@@ -67,7 +69,7 @@
   "banners": true,
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",
-  "spacesUseAlias": false,
+  "spacesUseAlias": true,
   "fmKeyAlias": "aliases",
   "fmKeyBanner": "banner",
   "fmKeyColor": "color",
