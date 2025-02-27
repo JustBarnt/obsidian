@@ -1,0 +1,21 @@
+{
+  "templater-obsidian:create-04.Templates/ProjectsTemplate.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "templater-obsidian:04.Templates/ProjectsTemplate.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "switcher:open": []
+}

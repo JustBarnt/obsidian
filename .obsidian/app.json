@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "vimMode": true,
+  "tabSize": 3,
+  "useTab": false,
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "/"
+}
