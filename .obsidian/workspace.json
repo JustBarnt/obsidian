@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "097e52ade8e44c73",
+            "id": "77520d42fb4a4be5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -82,7 +82,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -169,7 +170,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,10 +177,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "pomodoro-timer:Toggle timer panel": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5246311a9ba6379",
+  "active": "391824e8298cd202",
   "lastOpenFiles": [
     "02.CodeSnippets/02.CodeSnippets.md",
     "00.DailyNotes/2025/2025-02-27.md",
