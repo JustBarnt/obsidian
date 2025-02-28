@@ -8,7 +8,7 @@ tp.file.tags = tags.includes('project') ? tags : [...tags, 'project']
 
 _%>
 
-status: "active"  # Options: active, planning, completed
+status: "active"  # Options: active, planning, completed, archived
 created: {{date:YYYY-MM-DD}}
 tags: [<% tp.file.tags %>]
 ---
