@@ -3,6 +3,12 @@ status: "active"  # Options: active, planning, completed, archived
 created: 2025-02-28
 tags: [personal, neovim, ide,project]
 ---
+## Remaining Tasks
+> [!check] Remaining Tasks
+> ```tasks
+path includes 01.Projects/NeovimConfiguration/
+not done
+>```
 
 ## Overview
 **Description:**  

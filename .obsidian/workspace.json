@@ -93,7 +93,7 @@
             }
           },
           {
-            "id": "b1f945fa7547a6c3",
+            "id": "ea6469b747916488",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -203,10 +203,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "49f134737472ae59",
+  "active": "7bf0089cd178a411",
   "lastOpenFiles": [
-    "01.Projects/NeovimConfiguration/NeovimConfiguration.md",
     "01.Projects/NeovimConfiguration/Root Configuration.md",
+    "01.Projects/NeovimConfiguration/NeovimConfiguration.md",
     "04.Templates/BasicNoteTemplate.md",
     "04.Templates/DailyNoteTemplate.md",
     "04.Templates/TaskTemplate.md",
