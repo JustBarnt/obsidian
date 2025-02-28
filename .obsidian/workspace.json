@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04.Templates/KBTemplate.md",
+                "file": "01.Projects/NeovimConfiguration/NeovimConfiguration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of KBTemplate"
+              "title": "Outline of NeovimConfiguration"
             }
           }
         ],
@@ -183,13 +183,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "638c68a07b55bedf",
+  "active": "75fce5c283e287c5",
   "lastOpenFiles": [
-    "01.Projects/NeovimConfiguration/NeovimConfiguration.md",
     "01.Projects/NeovimConfiguration/Coding.md",
+    "01.Projects/NeovimConfiguration/NeovimConfiguration.md",
     "01.Projects/NeovimConfiguration/Core.md",
-    "01.Projects/NeovimConfiguration/UX.md",
     "01.Projects/NeovimConfiguration/LSP.md",
+    "01.Projects/NeovimConfiguration/UX.md",
+    "01.Projects/01.Projects.md",
     "04.Templates/BasicNoteTemplate.md",
     "04.Templates/DailyNoteTemplate.md",
     "04.Templates/TaskTemplate.md",
@@ -218,7 +219,6 @@
     "03.KnowledgeBase/03.KnowledgeBase.md",
     "Tasks",
     "space.md",
-    "Task List.md",
     "Tags/#dailynotes",
     "Tags/#dailynote",
     "Tags",

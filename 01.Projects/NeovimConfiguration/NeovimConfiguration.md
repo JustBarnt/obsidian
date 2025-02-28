@@ -3,13 +3,13 @@ status: "active"  # Options: active, planning, completed, archived
 created: 2025-02-28
 tags: [personal, neovim, ide,project]
 ---
-## Remaining Tasks
-> [!check] Remaining Tasks
-> ```tasks
-path regex matches /NeovimConfiguration/\w+\.md/i
+## Remaining Task
+```tasks
+(folder regex matches /01.Projects/NeovimConfiguration/i) AND \
+(path regex does not match /NeovimConfiguration/NeovimConfiguration\.md/i)
 not done
 group by filename
->```
+```
 
 ## Overview
 **Description:**  
@@ -43,8 +43,8 @@ group by filename
 
 ## Development Tasks
 **Backlog:**  
-  - [ ] [[Core]]
-  - [ ] [[LSP]]
+  - [[Core]]
+  - [[LSP]]
   - [[UX]]
   - [[Coding]]
 
