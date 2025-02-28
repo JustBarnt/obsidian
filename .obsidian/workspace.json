@@ -11,11 +11,9 @@
             "id": "5ec7bb0e4a488bee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "01.Projects/Neovim Configuration.md",
-                "mode": "source",
-                "source": false
+                "path": "01.Projects/Neovim Configuration"
               },
               "icon": "lucide-file",
               "title": "Neovim Configuration"
@@ -185,17 +183,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ec7bb0e4a488bee",
+  "active": "27a09255f965ad78",
   "lastOpenFiles": [
-    "01.Projects/Neovim Configuration.md",
+    "04.Templates/BasicNoteTemplate.md",
+    "01.Projects/Neovim Configuration/Untitled.md",
+    "04.Templates/SnippetTemplate.md",
+    "04.Templates/ProjectsTemplate.md",
+    "04.Templates/KBTemplate.md",
+    "04.Templates/DailyNoteTemplate.md",
+    "01.Projects/Neovim Configuration/Neovim Configuration.md",
+    "01.Projects/Neovim Configuration",
     "01.Projects/Neovim Configuration/Root Configuration.md",
     "01.Projects/Neovim Configuration/Untitled.canvas",
     "Root Configuration.md",
-    "01.Projects/Neovim Configuration",
-    "04.Templates/ProjectsTemplate.md",
-    "04.Templates/DailyNoteTemplate.md",
-    "04.Templates/KBTemplate.md",
-    "04.Templates/SnippetTemplate.md",
     "04.Templates/TaskTemplate.md",
     "00.DailyNotes/2025/2025-02-28.md",
     "Tasks/INT-5258.md",
@@ -219,8 +219,6 @@
     "02.CodeSnippets/Snippet-test.md",
     "02.CodeSnippets/Snippet-test.md",
     "02.CodeSnippets/Snippet-te.md",
-    "02.CodeSnippets/Snippet-TestSnippet.md",
-    "00.DailyNotes/2025/2025-02-26.md",
     "DailyNote",
     "00.DailyNotes/2025/02",
     "00.DailyNotes/2025",

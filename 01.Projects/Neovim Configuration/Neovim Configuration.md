@@ -49,17 +49,22 @@ tags: [personal, neovim, ide,project]
       - [ ] Keymap & Option overrides
       - [ ] LSP Utilities (gets added to global Utils class)
           - [ ] `LSP` utilities class
-      - [ ] `lspconfig`, `mason`, `conform`, `mason-lspconfg` setup with `lua_ls` as the single LSP bundled
-      - [ ] `health.lsp` check to ensure things like `node.js`, `python`, `php`, `dotnet`, et
+      - [ ] Includes: `lspconfig`, `mason`, `conform`, `mason-lspconfg` setup with `lua_ls` as the single LSP bundled
+  - [ ] User Interface Configuration
+      - [ ] Keymap & Option overrides
+      - [ ] UI/UX Utilities (gets added to global Utils class)
+          - [ ] `UI` utilities class.
+              - [ ] Includes: toggles (LazyVim toggles) and maybe more
+      - [ ] Includes: `snacks.nvim`, `noice.nvim`, `nvchad`, etc.
+  - [ ] Coding Configuration
+      - [ ] Keymap & Option overrides
+      - [ ] Coding Utilities (gets added to global Utils class)
+          - [ ] `CODING` utilities class
+              - [ ] Includes: fold management, auto-formatting, treesitter text-objects,  and more
+
 **Milestones:**  
-  **Milestone 1:** Description & target date
-  **Milestone 2:** Description & target date
+  **Milestone 1:** Root Configuration & 2025-03-31
 
 ## Issues & Challenges
-- List current issues, roadblocks, or challenges.
-- Note potential solutions or areas for further investigation.
-
-## Future Enhancements
-- Ideas for improvements or new features to consider later.
 
 ---

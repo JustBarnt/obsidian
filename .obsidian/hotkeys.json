@@ -1,13 +1,4 @@
 {
-  "templater-obsidian:create-04.Templates/ProjectsTemplate.md": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "P"
-    }
-  ],
   "templater-obsidian:04.Templates/ProjectsTemplate.md": [
     {
       "modifiers": [
@@ -17,5 +8,50 @@
       "key": "P"
     }
   ],
-  "switcher:open": []
+  "switcher:open": [],
+  "templater-obsidian:create-04.Templates/DailyNoteTemplate.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "1"
+    }
+  ],
+  "templater-obsidian:create-04.Templates/ProjectsTemplate.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "2"
+    }
+  ],
+  "templater-obsidian:create-04.Templates/TaskTemplate.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "3"
+    }
+  ],
+  "templater-obsidian:create-04.Templates/SnippetTemplate.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "4"
+    }
+  ],
+  "templater-obsidian:create-04.Templates/KBTemplate.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "5"
+    }
+  ]
 }

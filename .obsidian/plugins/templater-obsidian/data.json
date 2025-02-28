@@ -38,13 +38,19 @@
   "enable_file_templates": false,
   "file_templates": [
     {
-      "regex": ".*",
+      "regex": "",
       "template": "04.Templates/ProjectsTemplate.md"
     }
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
-  "enabled_templates_hotkeys": [],
+  "enabled_templates_hotkeys": [
+    "04.Templates/DailyNoteTemplate.md",
+    "04.Templates/KBTemplate.md",
+    "04.Templates/ProjectsTemplate.md",
+    "04.Templates/SnippetTemplate.md",
+    "04.Templates/TaskTemplate.md"
+  ],
   "startup_templates": [
     ""
   ]
