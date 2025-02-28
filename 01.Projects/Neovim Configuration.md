@@ -21,14 +21,13 @@ tags: [personal, neovim, ide,project]
       - `fd`, `ripgrep`, `gcc (or some other c compiler)`, `lazygit`
 **Installation Steps:**  
 - [ ] TODO
-**Configuration:**  
-Allow all plugins except LSP/Treesitter/Blink to be opt-in and enabled via a `UserCommand` that saves to a json file
-## Architecture & Design
-**Architecture Diagram:**  
-![Diagram]()
+
+## Configuration Layout
 **Key Components:**  
-  - Component A: Description
-  - Component B: Description
+  - Root Configuration
+      - Contains setup, utilities, and option setup that doesn't rely on plugins
+  - LSP Configuration
+      - Sets up the LSP Configuration and any utilities. Options that 
 
 ## Development Tasks
 **Backlog:**  
