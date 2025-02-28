@@ -6,8 +6,9 @@ tags: [personal, neovim, ide,project]
 ## Remaining Tasks
 > [!check] Remaining Tasks
 > ```tasks
-    path includes [NeovimConfiguration/LSP]
+path regex matches /NeovimConfiguration/\w+\.md/i
 not done
+group by filename
 >```
 
 ## Overview
@@ -26,7 +27,7 @@ not done
   - Command line utilities
       - `fd`, `ripgrep`, `gcc (or some other c compiler)`, `lazygit`
 **Installation Steps:**  
-- [ ] TODO
+- TODO
 
 ## Configuration Layout
 **Key Components:**  
@@ -44,8 +45,8 @@ not done
 **Backlog:**  
   - [ ] [[Core]]
   - [ ] [[LSP]]
-  - [ ] [[UX]]
-  - [ ] [[Coding]]
+  - [[UX]]
+  - [[Coding]]
 
 **Milestones:**  
   **Milestone 1:** Root Configuration & 2025-03-31

@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "ea6469b747916488",
+            "id": "3784ff0440ab318a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -183,7 +183,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "95a513442e39aa16",
+  "active": "638c68a07b55bedf",
   "lastOpenFiles": [
     "01.Projects/NeovimConfiguration/NeovimConfiguration.md",
     "01.Projects/NeovimConfiguration/Coding.md",
