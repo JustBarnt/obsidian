@@ -1,10 +1,9 @@
 ---
-
 date: 2025-02-28
-tags: []
+tags:
 ---
 ## Backlog
-- [ ] Keymap []
+- [ ] Keymap
 - [ ] Options
 - [ ] Utilities Class
     - [ ] `CODING` -> Added to Global Utilities
