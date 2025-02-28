@@ -12,7 +12,7 @@
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
-  "enable_folder_templates": true,
+  "enable_folder_templates": false,
   "folder_templates": [
     {
       "folder": "00.DailyNotes",
@@ -35,22 +35,36 @@
       "template": "04.Templates/TaskTemplate.md"
     }
   ],
-  "enable_file_templates": false,
+  "enable_file_templates": true,
   "file_templates": [
     {
-      "regex": "",
+      "regex": "00.DailyNote/",
+      "template": "04.Templates/DailyNoteTemplate.md"
+    },
+    {
+      "regex": "01.Projects/\\w+/",
+      "template": "04.Templates/BasicNoteTemplate.md"
+    },
+    {
+      "regex": "01.Projects/",
       "template": "04.Templates/ProjectsTemplate.md"
+    },
+    {
+      "regex": "02.CodeSnippets/",
+      "template": "04.Templates/SnippetTemplate.md"
+    },
+    {
+      "regex": "03.KnowledgeBase/",
+      "template": "04.Templates/KBTemplate.md"
+    },
+    {
+      "regex": "Tasks/",
+      "template": "04.Templates/TaskTemplate.md"
     }
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
-  "enabled_templates_hotkeys": [
-    "04.Templates/DailyNoteTemplate.md",
-    "04.Templates/KBTemplate.md",
-    "04.Templates/ProjectsTemplate.md",
-    "04.Templates/SnippetTemplate.md",
-    "04.Templates/TaskTemplate.md"
-  ],
+  "enabled_templates_hotkeys": [],
   "startup_templates": [
     ""
   ]

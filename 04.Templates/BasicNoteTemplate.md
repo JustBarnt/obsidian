@@ -1,5 +1,7 @@
 ---
-
-date: {{YYYY-MM-DD}}
+<%*
+const now = tp.date.now()
+%>
+date: <% now %>
 tags: []
 ---
