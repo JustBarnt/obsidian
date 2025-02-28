@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "466a2eea03300bdf",
+        "id": "0bc9b13e0a262df9",
         "type": "tabs",
         "children": [
           {
-            "id": "f86d5cd13510669a",
+            "id": "5ec7bb0e4a488bee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,7 +185,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b1f945fa7547a6c3",
+  "active": "5ec7bb0e4a488bee",
   "lastOpenFiles": [
     "01.Projects/Neovim Configuration.md",
     "01.Projects/Neovim Configuration/Root Configuration.md",
