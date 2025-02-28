@@ -3,13 +3,14 @@
 let title = await tp.system.prompt("Project Name")
 let given_tags = await tp.system.prompt("Tags (personal, web)")
 let tags = given_tags.split(",")
+const now = tp.date.now()
 tp.file.title = await tp.file.rename(title)
 tp.file.tags = tags.includes('project') ? tags : [...tags, 'project']
 
 _%>
 
 status: "active"  # Options: active, planning, completed, archived
-created: {{date:YYYY-MM-DD}}
+created: <% now %>
 tags: [<% tp.file.tags %>]
 ---
 

@@ -44,7 +44,8 @@
     "03.KnowledgeBase",
     "02.CodeSnippets",
     "00.DailyNotes",
-    "Tasks"
+    "Tasks",
+    "01.Projects/01.Projects/Neovim Configuration"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
