@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "9e18183972e3a142",
+            "id": "b1f945fa7547a6c3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -185,7 +185,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e18183972e3a142",
+  "active": "b1f945fa7547a6c3",
   "lastOpenFiles": [
     "04.Templates/KBTemplate.md",
     "04.Templates/ProjectsTemplate.md",
