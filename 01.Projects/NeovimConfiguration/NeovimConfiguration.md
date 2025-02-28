@@ -6,7 +6,7 @@ tags: [personal, neovim, ide,project]
 ## Remaining Tasks
 > [!check] Remaining Tasks
 > ```tasks
-path includes 01.Projects/NeovimConfiguration/
+    path includes [NeovimConfiguration/LSP]
 not done
 >```
 
@@ -42,31 +42,10 @@ not done
 
 ## Development Tasks
 **Backlog:**  
-  - [ ] Root Configuration
-      - [ ] Global Utils Variable
-          - [ ] `Core` utilities class
-      - [ ] `vim.g` variable setup
-      - [ ] Keymap & Option setup
-      - [ ] Root Utilities
-          - [ ] TODO
-      - [ ] `lazy.nvim` bootstrap
-      - [ ] `health` check
-  - [ ] LSP Configuration
-      - [ ] Keymap & Option overrides
-      - [ ] LSP Utilities (gets added to global Utils class)
-          - [ ] `LSP` utilities class
-      - [ ] Includes: `lspconfig`, `mason`, `conform`, `mason-lspconfg` setup with `lua_ls` as the single LSP bundled
-  - [ ] User Interface Configuration
-      - [ ] Keymap & Option overrides
-      - [ ] UI/UX Utilities (gets added to global Utils class)
-          - [ ] `UI` utilities class.
-              - [ ] Includes: toggles (LazyVim toggles) and maybe more
-      - [ ] Includes: `snacks.nvim`, `noice.nvim`, `nvchad`, etc.
-  - [ ] Coding Configuration
-      - [ ] Keymap & Option overrides
-      - [ ] Coding Utilities (gets added to global Utils class)
-          - [ ] `CODING` utilities class
-              - [ ] Includes: fold management, auto-formatting, treesitter text-objects,  and more
+  - [ ] [[Core]]
+  - [ ] [[LSP]]
+  - [ ] [[UX]]
+  - [ ] [[Coding]]
 
 **Milestones:**  
   **Milestone 1:** Root Configuration & 2025-03-31
