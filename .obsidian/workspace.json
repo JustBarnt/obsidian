@@ -11,12 +11,14 @@
             "id": "638c68a07b55bedf",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "01.Projects/NeovimConfiguration"
+                "file": "01.Projects/DBN-Website.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "NeovimConfiguration"
+              "title": "DBN-Website"
             }
           }
         ]
@@ -183,10 +185,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ba29281fd264c025",
+  "active": "638c68a07b55bedf",
   "lastOpenFiles": [
-    "01.Projects/NeovimConfiguration/Coding.md",
+    "01.Projects/DBN-Website.md",
     "01.Projects/NeovimConfiguration/NeovimConfiguration.md",
+    "01.Projects/NeovimConfiguration/Coding.md",
     "01.Projects/NeovimConfiguration/Core.md",
     "01.Projects/NeovimConfiguration/LSP.md",
     "01.Projects/NeovimConfiguration/UX.md",
@@ -218,7 +221,6 @@
     "02.CodeSnippets/02.CodeSnippets.md",
     "03.KnowledgeBase/03.KnowledgeBase.md",
     "Tasks",
-    "space.md",
     "Tags/#dailynotes",
     "Tags/#dailynote",
     "Tags",
