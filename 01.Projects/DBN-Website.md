@@ -11,6 +11,6 @@ tags: [freelance,web,svelte,project]
 - [x] Headers are larger on the FAQ's, blogs ✅ 2025-03-01
 - [ ] Header is to small your trainer page
 - [x] Article names in footer need to span the full width of the page ✅ 2025-03-01
-
+- [ ] Make hamburger menu for mobile
 ### All
 - [x] Update new image for classes page ✅ 2025-03-01
