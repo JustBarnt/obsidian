@@ -7,10 +7,10 @@ tags: [freelance,web,svelte,project]
 ## Backlog
 
 ### Mobile
-- [ ] Add more padding to the FAQ's 
-- [ ] Headers are larger on the FAQ's, blogs
+- [x] Add more padding to the FAQ's ✅ 2025-03-01
+- [x] Headers are larger on the FAQ's, blogs ✅ 2025-03-01
 - [ ] Header is to small your trainer page
-- [ ] Article names in footer need to span the full width of the page
+- [x] Article names in footer need to span the full width of the page ✅ 2025-03-01
 
 ### All
-- [ ] Update new image for classes page
+- [x] Update new image for classes page ✅ 2025-03-01
